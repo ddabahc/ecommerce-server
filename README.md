@@ -16,6 +16,14 @@ My Ironhack final project, a complete e-commerce site that has some great feautu
   
   And much more.
   
+  ## Used Technologies
+  It was quite a challenge to create an ecommerce site, for this I used multiple technologies like: 
+  - Mongo DB
+  - React JS
+  - Node JS
+  - Redux
+  
+  
   ## Liscence & copyright
   
   @ Daniel Dabah
